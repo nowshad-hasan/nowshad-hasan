@@ -22,3 +22,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nowshad-hasan)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowshad-hasan&show_icons=true)  
+
+### My Articles
+- [How to Create A Java Library With Gradle 7 and Publish It To Maven Repository](https://medium.com/@nowshadapu/how-to-create-a-java-library-and-publish-it-to-maven-with-gradle-7-e952837a7fc9)
+- [Java 17, A New LTS and What’s New from Last LTS, Java 11](https://medium.com/@nowshadapu/java-17-a-new-lts-and-whats-new-from-last-lts-java-11-8b56aaaa2326)
+- [Read OTP without SMS permission in Android](https://medium.com/@nowshadapu/read-otp-without-sms-permission-in-android-63efb602cc1)
+
