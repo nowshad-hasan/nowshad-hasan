@@ -2,13 +2,13 @@
 #### I am a Software Engineer and a Java enthuasist. 
 
 - 👨‍💻 I’m currently working on BRAC IT 
-- 🌱 I’m currently learning Frontend and Devops stack 
+- 🌱 I’m currently learning Distributed Backend System and Devops stack 
 - 👯 I’m looking to collaborate on Open Source projects 
 - ⚙️ I like to think about Backend Engineering and System Designing
 - 🙌🏽 I'm currently active in [JUGBD](https://www.facebook.com/groups/jugbd) community
 - 📚 I reviewed books - [Rokomari](https://www.rokomari.com/book/129165/java-programming)
 - ✍🏽 I like to write blog at [Medium](https://medium.com/@nowshadapu)
-- 💬 Ask me about Java, Spring 
+- 💬 Ask me about Java, Spring, SQL and Regex
 - 🚲 I like to travel a lot - national and international.
 - 🏃🏽 I like to do occasional marathons. Recently I participated in Ladakh Marathon 2022.
 - 📫 How to reach me: nowshadapu at gmail dot com 
@@ -28,3 +28,8 @@
 - [Java 17, A New LTS and What’s New from Last LTS, Java 11](https://medium.com/@nowshadapu/java-17-a-new-lts-and-whats-new-from-last-lts-java-11-8b56aaaa2326)
 - [Read OTP without SMS permission in Android](https://medium.com/@nowshadapu/read-otp-without-sms-permission-in-android-63efb602cc1)
 
+### Read Books
+- Spring Microservices in Action by John Carnell (Currently Reading)
+- Spring Security in Action by Laurentiu Spilca
+- Effective Java by Joshua Bloch
+- Clean Code by Robert Cecil Martin
