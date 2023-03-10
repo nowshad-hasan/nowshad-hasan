@@ -28,8 +28,5 @@
 - [Java 17, A New LTS and What’s New from Last LTS, Java 11](https://medium.com/@nowshadapu/java-17-a-new-lts-and-whats-new-from-last-lts-java-11-8b56aaaa2326)
 - [Read OTP without SMS permission in Android](https://medium.com/@nowshadapu/read-otp-without-sms-permission-in-android-63efb602cc1)
 
-### Read Books
-- Spring Microservices in Action by John Carnell (Currently Reading)
-- Spring Security in Action by Laurentiu Spilca
-- Effective Java by Joshua Bloch
-- Clean Code by Robert Cecil Martin
+### Currently Reading
+- Spring Microservices in Action by John Carnell
