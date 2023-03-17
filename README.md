@@ -30,3 +30,4 @@
 
 ### Currently Reading
 - Spring Microservices in Action by John Carnell
+- Linux Bible by Christopher Negus
