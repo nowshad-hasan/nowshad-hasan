@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Md. Nowshad Hasan
 #### I am a Software Engineer and a Java enthuasist. 
 
-- 👨‍💻 I’m currently working on BRAC IT 
+- 👨‍💻 I’m currently working on Dynamic Solution Innovators (DSi) 
 - 🌱 I’m currently learning Distributed Backend System and Devops stack 
 - 👯 I’m looking to collaborate on Open Source projects 
 - ⚙️ I like to think about Backend Engineering and System Designing
