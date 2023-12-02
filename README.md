@@ -23,6 +23,9 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nowshad-hasan&show_icons=true)  
 
+### Open Source Contributions
+- [Another Monitor](https://github.com/AntonioRedondo/AnotherMonitor) | AnotherMonitor is an android app to monitor and record the CPU and memory usage of Android devices. [Commits](https://github.com/AntonioRedondo/AnotherMonitor/commits?author=nowshad-hasan)
+
 ### My Articles
 - [How to Create A Java Library With Gradle 7 and Publish It To Maven Repository](https://medium.com/@nowshadapu/how-to-create-a-java-library-and-publish-it-to-maven-with-gradle-7-e952837a7fc9)
 - [Java 17, A New LTS and What’s New from Last LTS, Java 11](https://medium.com/@nowshadapu/java-17-a-new-lts-and-whats-new-from-last-lts-java-11-8b56aaaa2326)
