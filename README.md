@@ -2,7 +2,7 @@
 #### I am a Software Engineer and a Java enthuasist. 
 
 - 👨‍💻 I’m currently working on Dynamic Solution Innovators (DSi) 
-- 🌱 I’m currently learning frontend development with React
+- 🌱 I’m currently working mobile development with React Native
 - 👯 I’m looking to collaborate on Open Source projects 
 - ⚙️ I like to think about Backend Engineering and System Designing
 - 🙌🏽 I'm currently active in [JUGBD](https://www.facebook.com/groups/jugbd) community
