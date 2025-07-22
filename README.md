@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Md. Nowshad Hasan
 #### I am a Software Engineer and a Java enthuasist. 
 
-- 👨‍💻 I’m currently working on Dynamic Solution Innovators (DSi) 
-- 🌱 I’m currently working mobile development with React Native
+- 👨‍💻 I’m currently working on BizMotion Limited 
+- 🌱 I’m currently working on backend development with Spring Boot.
 - 👯 I’m looking to collaborate on Open Source projects 
 - ⚙️ I like to think about Backend Engineering and System Designing
 - 🙌🏽 I'm currently active in [JUGBD](https://www.facebook.com/groups/jugbd) community
